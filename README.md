@@ -29,6 +29,7 @@ It only answers questions based on the uploaded dataset.
 
 ![Flow Preview](assets/covid-chatbot-preview.png)
 
+![Flow Preview](assets/langflow-preview.png)
 ## Flow File
 
 The exported Langflow JSON is available in:
